@@ -1,0 +1,3 @@
+profile_id,raw_kind,raw_index,semantic,minimum,center,maximum,invert,deadzone,trigger_mode,notes
+profile_generic,button,0,face_south,0,0,1,false,0,none,Template example; verify backend indexing before use
+profile_generic,axis,0,stick_left_x,-1,0,1,false,0.12,none,Template example; verify backend indexing before use

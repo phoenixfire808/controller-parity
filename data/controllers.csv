@@ -1,0 +1,2 @@
+controller_id,display_name,vendor,product,platforms,connection_types,profile_id,layout,verification,source,notes
+example_generic,Generic standard gamepad,,,,usb|bluetooth,profile_generic,standard,unverified,,Template only; do not treat as a verified device model
